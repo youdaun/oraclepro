@@ -12,9 +12,9 @@ public class PhoneApp {
 		boolean start = true;
 		String name, hp, company;
 
-		System.out.println("*********************************");
+		System.out.println("**************************************");
 		System.out.println("*       전화번호 관리 프로그램       *");
-		System.out.println("*********************************");
+		System.out.println("**************************************");
 
 		// 제일 바깥쪽 리스트
 		while (start) {
